@@ -1,0 +1,9 @@
+export const REGISTER_USER = "REGISTER_USER";
+export const LOGIN_USER = "LOGIN_USER";
+export const REQUEST_LIST = "REQUEST_LIST";
+export const VENDOR_LIST = 'VENDOR_LIST';
+export const VENDOR_RESPONSE = "VENDOR_RESPONSE";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const PRODUCT_LIST = "PRODUCT_LIST";
+export const PRODUCT_DETAILS = "PRODUCT_DETAILS";
+export const PRODUCT_DELETE = "PRODUCT_DELETE";
